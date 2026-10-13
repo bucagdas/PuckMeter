@@ -4,6 +4,8 @@
 
 Apple MagSafe Şarj Aygıtı için küçük bir macOS menü çubuğu uygulaması. iPhone'un şarj aygıtında olup olmadığını ve şarj aygıtının Mac'inden ne kadar güç çektiğini canlı olarak gösterir.
 
+<img src="docs/screenshot-tr.png" width="365" alt="PuckMeter paneli menü çubuğu simgesinin altında açık, iPhone şarj olurken 6,8 W gösteriyor">
+
 ## Özellikler
 
 - Menü çubuğunda canlı güç (W, mA, V), yaklaşık saniyede bir güncellenir

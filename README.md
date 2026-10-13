@@ -4,6 +4,8 @@
 
 A small macOS menu bar app for the Apple MagSafe Charger. It shows whether an iPhone is on the charger and how much power the charger is drawing from your Mac, live.
 
+<img src="docs/screenshot-en.png" width="363" alt="PuckMeter panel open under its menu bar item, showing 6.9 W while an iPhone charges">
+
 ## Features
 
 - Live power in the menu bar (W, mA, V), updated about once a second
