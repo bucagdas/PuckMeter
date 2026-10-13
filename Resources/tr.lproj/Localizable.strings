@@ -1,0 +1,45 @@
+/* Status */
+"MagSafe Charger" = "MagSafe Şarj Aygıtı";
+"No Phone" = "Telefon yok";
+"Charging" = "Şarj ediyor";
+"Power Not Measurable" = "Güç ölçülemiyor";
+"No Reading" = "Ölçüm yok";
+"Not Connected" = "Bağlı değil";
+"Charger not connected" = "Şarj aygıtı bağlı değil";
+"Connected through a hub or display" = "Hub veya ekran üzerinden bağlı";
+"Updated every minute" = "dakikada bir güncellenir";
+
+/* Events */
+"Charging started" = "Şarj başladı";
+"iPhone removed" = "iPhone kaldırıldı";
+"Charger connected" = "Şarj aygıtı bağlandı";
+"Charger disconnected" = "Şarj aygıtı çıkarıldı";
+"Charging from the Mac's battery" = "Mac'in pilinden şarj ediyor";
+"Using the Mac's battery" = "Mac'in pilini kullanıyor";
+"Recent Events" = "Son Olaylar";
+
+/* Measurement source */
+"Measurement Source" = "Ölçüm Kaynağı";
+"SMC (Live)" = "SMC (canlı)";
+"Battery Report (Every Minute)" = "Pil raporu (dakikada bir)";
+
+/* Charger details */
+"Charger Details" = "Şarj Aygıtı Bilgileri";
+"Port" = "Port";
+"Hub or display" = "Hub veya ekran";
+"Serial Number" = "Seri Numarası";
+"Copy Serial Number" = "Seri Numarasını Kopyala";
+"Version" = "Sürüm";
+"Allocated Power" = "Ayrılan Güç";
+"USB Speed" = "USB Hızı";
+"Connected" = "Bağlandı";
+"Before the app started" = "Uygulama açılmadan önce";
+
+/* Settings */
+"Notifications" = "Bildirimler";
+"Notifications are working" = "Bildirimler çalışıyor";
+"When charging finishes and when iPhone charges from the Mac's battery" = "Şarj tamamlanınca ve iPhone Mac'in pilinden şarj olurken";
+"Turned off in System Settings" = "Sistem Ayarları'nda kapalı";
+"Open Settings" = "Ayarları Aç";
+"Launch at Login" = "Girişte Başlat";
+"Quit PuckMeter" = "PuckMeter'dan Çık";
